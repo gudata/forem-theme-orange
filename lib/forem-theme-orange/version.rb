@@ -1,7 +1,7 @@
 module Forem
   module Theme
-    module Base
-      VERSION = "0.0.1"
+    module Orange
+      VERSION = "0.0.2"
     end
   end
 end
