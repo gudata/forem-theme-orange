@@ -4,7 +4,7 @@ require "forem-theme-orange/version"
 
 Gem::Specification.new do |s|
   s.name        = "forem-theme-orange"
-  s.version     = Forem::Theme::Base::VERSION
+  s.version     = Forem::Theme::Orange::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ryan Bigg"]
   s.email       = ["radarlistener@gmail.com"]
